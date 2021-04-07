@@ -1,2 +1,2 @@
 # powershell
-powershell scripts
+Windows Scripts
